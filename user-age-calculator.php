@@ -12,7 +12,7 @@
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       user-age-calculator
  *
- * Insert Header and Footer Code
+ * User Age Calculator
  * Copyright (C) 2021, Vikas Sharma <vikas@caketech.in>
  *
  * 'User Age Calculator' is free software: you can redistribute it and/or modify
@@ -26,7 +26,7 @@
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with Insert Header and Footer Code. If not, see https://www.gnu.org/licenses/gpl-2.0.html.
+ * along with 'User Age Calculator'. If not, see https://www.gnu.org/licenses/gpl-2.0.html.
  *
  */
 
