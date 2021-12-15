@@ -5,7 +5,7 @@ function uac_calculate_to_current_date( random_number ) {
 
 	var now      = new Date();
 	var to_date  = now.getDate();
-	var to_month = now.getMonth();
+	var to_month = now.getMonth() + 1;
 	var to_year  = now.getFullYear();
 
 	if( to_date < dob_date ) {
